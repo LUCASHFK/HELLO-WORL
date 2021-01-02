@@ -1,4 +1,4 @@
-# HELLO-WORL
+# HELLO-WORLD
 First Git project
 The only change was this message
 The second change only as practice
